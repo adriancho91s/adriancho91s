@@ -1,6 +1,4 @@
-<div aling="center">
-![Header](./assets/adriancho91s-header.png)
-</div>
+<img aling="center" with="661" alt="header adriancho91s" src="./assets/adriancho91s-header.png">
 
 
 ## 🌐 Socials:
