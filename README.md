@@ -36,11 +36,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=adriancho91s&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-<p align="left">
+<div align="left">
   ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=adriancho91s&limit=5&theme=dark&combine_all_yearly_contributions=true)</p>
 
-<p align="rigth">
+<div align="rigth">
   ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)</p>
 
