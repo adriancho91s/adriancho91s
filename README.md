@@ -1,4 +1,4 @@
-<a href="https://adriangaitan.me" target="_blank" rel="noreferrer"><img aling="center" with="661" alt="header adriancho91s" src="./assets/adriancho91s-header.png"></a>
+<p align="center"><img aling="center" with="661" alt="header adriancho91s" src="./assets/adriancho91s-header.png"></p>
 
 
 ## 🌐 Socials:
