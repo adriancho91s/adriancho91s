@@ -1,4 +1,4 @@
-<div style="align-content: center; justify-content: center;">
+<div aling="center">
 ![Header](./assets/adriancho91s-header.png)
 </div>
 
