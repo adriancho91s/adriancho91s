@@ -1,5 +1,4 @@
-<img aling="center" with="661" alt="header adriancho91s" src="./assets/adriancho91s-header.png">
-[![Header](./assets/adriancho91s-header.png)](https://adriangaitan.me)
+<a href="https://adriangaitan.me"><img aling="center" with="661" alt="header adriancho91s" src="./assets/adriancho91s-header.png"></a>
 
 
 ## 🌐 Socials:
