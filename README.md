@@ -2,13 +2,14 @@
 
 
 
-<div>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adriangaitanlondono) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adri%C3%A1n-fernando-gait%C3%A1n-londo%C3%B1o-35b47a168) 
 
 
 <p align="right"><img src="./assets/mona-whisper.gif"></p>
-</div>
+
+
 <p align="left">
 ## 💻 Tech Stack:
 
@@ -38,11 +39,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=adriancho91s&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-<div align="left">
   ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=adriancho91s&limit=5&theme=dark&combine_all_yearly_contributions=true)</p>
 
-<div align="rigth">
+
   ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)</p>
 
