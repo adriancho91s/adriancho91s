@@ -22,14 +22,14 @@ http://adriangaitan.engineer
 
 ### 📱 Frontend:
 ![HTML5](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg) ![CSS3](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg) ![SASS](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass2.svg)
-![React]([https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg)) 
+![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg) 
 ![React Native](https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative3.svg)
 ![Astro](https://ziadoua.github.io/m3-Markdown-Badges/badges/Astro/astro1.svg)
 ![Expo](https://ziadoua.github.io/m3-Markdown-Badges/badges/Expo/expo3.svg)
 ![Vite.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs1.svg)
-![Next JS]([https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg))
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Axios](https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios1.svg) ![Redux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux2.svg) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
-![TailwindCSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Docker](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg)
+![Next JS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Axios](https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios1.svg) ![Redux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux2.svg)
+![TailwindCSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg) ![Bootstrap](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg) ![Docker](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg)
 
 
 ### 🧰 My tools:
