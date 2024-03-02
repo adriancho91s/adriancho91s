@@ -41,7 +41,7 @@ http://adriangaitan.engineer
 
 ### 📋 Another languajes that I know:
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg)
+![C](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg) ![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=adriancho91s&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
