@@ -34,14 +34,14 @@ http://adriangaitan.engineer
 
 ### 🧰 My tools:
 ![macOS](https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos1.svg) ![WebStorm](https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm1.svg) ![Visual Studio Code](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Figma](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma3.svg) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white)
-![Notion](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg)
+![Figma](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma3.svg) ![Adobe Photoshop](https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop2.svg) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Premiere Pro](https://ziadoua.github.io/m3-Markdown-Badges/badges/Premiere/premiere3.svg) ![Adobe After Effects](https://ziadoua.github.io/m3-Markdown-Badges/badges/AfterEffects/aftereffects3.svg)
+![Notion](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion3.svg)
 ![Vercel](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel1.svg) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![EsLint](https://ziadoua.github.io/m3-Markdown-Badges/badges/ESLint/eslint1.svg)
 
 ### 📋 Another languajes that I know:
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=adriancho91s&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
