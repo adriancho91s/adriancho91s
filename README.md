@@ -23,7 +23,7 @@ http://adriangaitan.engineer
 ### 📱 Frontend:
 ![HTML5](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg) ![CSS3](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg) ![SASS](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass2.svg)
 ![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg) 
-![React Native](https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative3.svg) ![Expo] (https://ziadoua.github.io/m3-Markdown-Badges/badges/Expo/expo3.svg)
+![React Native](https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative3.svg) ![Expo](https://ziadoua.github.io/m3-Markdown-Badges/badges/Expo/expo3.svg)
 ![Astro](https://ziadoua.github.io/m3-Markdown-Badges/badges/Astro/astro1.svg)
 ![Expo](https://ziadoua.github.io/m3-Markdown-Badges/badges/Expo/expo3.svg)
 ![Vite.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs1.svg)
