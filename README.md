@@ -1,14 +1,15 @@
 <p align="center"><img aling="center" with="661" alt="header adriancho91s" src="./assets/adriancho91s-header.png"></p>
 
 
-> _Sometimes coding light up your life_
+<p align="center">
+  <em>Sometimes coding lights up your life ✨</em>
+</p>
 
-## 🌐 Socials:
+## 🌐 Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adriangaitanlondono) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adri%C3%A1n-fernando-gait%C3%A1n-londo%C3%B1o-35b47a168) 
 
-#### Portfolio in progress
-
-http://adriangaitan.dev
+### 🚀 Portfolio
+[adriangaitan.dev](http://adriangaitan.dev)
 
 <img width="22%" align="right" src="./assets/mona-whisper.gif" > <br> <br>
 
@@ -44,8 +45,8 @@ http://adriangaitan.dev
 ![C](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg) ![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adriancho91s&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adriancho91s&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=adriancho91s&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adriancho91s&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
