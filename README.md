@@ -1,12 +1,12 @@
 <p align="center">
-  <img width="100%" src="./assets/adriancho91s-header.svg" alt="Adrian Gaitan — AI Software Engineer building agent-powered products for restaurant operations">
+  <img width="100%" src="./assets/adriancho91s-header.svg" alt="Adrian Gaitan — AI Software Engineer focused on agentic development and infrastructure at scale">
 </p>
 
 # Adrian Gaitan
 
 **AI Software Engineer at KitchenSync · Remote**
 
-I build and ship ambitious products through multi-agent orchestration, agentic development, and infrastructure at scale. At KitchenSync, I lead a team building software that helps restaurants run their back office. I focus on world-class product quality, fast delivery, and adapting as AI evolves.
+I build and ship ambitious products through multi-agent orchestration, agentic development, and infrastructure at scale. My work spans product design, full-stack engineering, and DevOps. I move quickly, adapt as AI evolves, and aim for world-class product quality.
 
 <p align="center">
   <a href="https://adriangaitan.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-6655D8?style=for-the-badge"></a>
@@ -62,31 +62,16 @@ Migrated a NestJS monolith to horizontally scalable AWS microservices with rolli
 
 ## GitHub activity
 
-<!-- github-activity-summary:start -->
-**19,381 public + private contributions · 263 active days**<br>
-*2025-10-29 – 2026-10-28 · UTC. Private activity is shown only as aggregate counts.*
-<!-- github-activity-summary:end -->
+<p align="center">
+  <img alt="GitHub contribution activity heatmap" src="https://ghchart.rshah.org/adriancho91s">
+</p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-activity-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/github-activity-light.svg">
-    <img alt="GitHub contribution activity heatmap with aggregate public and private counts for a 365-day window" src="./assets/github-activity-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=adriancho91s&amp;theme=tokyonight&amp;hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=adriancho91s&amp;theme=default&amp;hide_border=true">
+    <img alt="GitHub contribution streak and activity summary" src="https://streak-stats.demolab.com?user=adriancho91s&amp;theme=default&amp;hide_border=true">
   </picture>
-</p>
-
-<sub>This dated snapshot shows aggregate contribution counts only; no repository names or details are included. Refresh it locally with `node scripts/refresh-github-activity.mjs` after signing in through GitHub CLI.</sub>
-
-### Public repository languages
-
-<p align="center">
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=adriancho91s&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;theme=dark_github">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=adriancho91s&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;theme=light_github">
-      <img alt="Most-used languages in public repositories" src="https://github-stats-extended.vercel.app/api/top-langs/?username=adriancho91s&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;theme=light_github">
-    </picture>
-  </a>
 </p>
 
 ## Let's build something useful
