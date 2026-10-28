@@ -54,14 +54,24 @@ Migrated a NestJS monolith to horizontally scalable AWS microservices with rolli
 
 ## GitHub activity
 
+<!-- github-activity-summary:start -->
+**19,381 public + private contributions · 263 active days**<br>
+*2025-10-29 – 2026-10-28 · UTC. Private activity is shown only as aggregate counts.*
+<!-- github-activity-summary:end -->
+
 <p align="center">
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=adriancho91s&amp;show_icons=true&amp;hide_border=true&amp;theme=dark_github">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=adriancho91s&amp;show_icons=true&amp;hide_border=true&amp;theme=light_github">
-      <img alt="GitHub statistics from public repositories" src="https://github-stats-extended.vercel.app/api?username=adriancho91s&amp;show_icons=true&amp;hide_border=true&amp;theme=light_github">
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-activity-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-activity-light.svg">
+    <img alt="GitHub contribution activity heatmap with aggregate public and private counts for a 365-day window" src="./assets/github-activity-light.svg">
+  </picture>
+</p>
+
+<sub>This dated snapshot shows aggregate contribution counts only; no repository names or details are included. Refresh it locally with `node scripts/refresh-github-activity.mjs` after signing in through GitHub CLI.</sub>
+
+### Public repository languages
+
+<p align="center">
   <a href="https://github.com/stats-organization/github-stats-extended">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=adriancho91s&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;theme=dark_github">
@@ -70,16 +80,6 @@ Migrated a NestJS monolith to horizontally scalable AWS microservices with rolli
     </picture>
   </a>
 </p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=adriancho91s&amp;theme=tokyonight&amp;hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=adriancho91s&amp;theme=default&amp;hide_border=true">
-    <img alt="GitHub contribution streak from publicly visible activity" src="https://streak-stats.demolab.com?user=adriancho91s&amp;theme=default&amp;hide_border=true">
-  </picture>
-</p>
-
-<sub>Activity cards use publicly visible GitHub data; private contributions are not included.</sub>
 
 ## Let's build something useful
 
