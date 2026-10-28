@@ -1,66 +1,79 @@
-<p align="center"><img aling="center" with="661" alt="header adriancho91s" src="./assets/adriancho91s-header.png"></p>
-
-
 <p align="center">
-  <em>Sometimes coding lights up your life ✨</em>
+  <img width="100%" src="./assets/adriancho91s-header.svg" alt="Adrian Gaitan — AI Software Engineer focused on agentic development and infrastructure at scale">
 </p>
 
-## 🌐 Connect With Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adriangaitanlondono) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adri%C3%A1n-fernando-gait%C3%A1n-londo%C3%B1o-35b47a168) 
+# Adrian Gaitan
 
-### 🚀 Portfolio
-[adriangaitan.dev](http://adriangaitan.dev)
+**AI Software Engineer at KitchenSync · Remote**
 
-<img width="22%" align="right" src="./assets/mona-whisper.gif" > <br> <br>
+I build and ship ambitious products through multi-agent orchestration, agentic development, and infrastructure at scale. My work spans product design, full-stack engineering, and DevOps. I move quickly, adapt as AI evolves, and aim for world-class product quality.
 
+<p align="center">
+  <a href="https://adriangaitan.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-6655D8?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/adriancho91s"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
+  <a href="https://instagram.com/adriangaitanlondono"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"></a>
+  <a href="mailto:hello@adriangaitan.dev"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge"></a>
+  <a href="https://github.com/adriancho91s"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"></a>
+</p>
 
-  
-## 💻 Tech Stack:
+## Current focus
 
-### 👨‍💻 Backend:
-![NestJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs1.svg)![Laravel](https://ziadoua.github.io/m3-Markdown-Badges/badges/Laravel/laravel1.svg)![PostgreSQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg) ![NodeJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![TypeORM](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeORM/typeorm1.svg) ![Sequelize](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sequelize/sequelize1.svg) ![JWT](https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt1.svg)![Postman](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg) ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg) ![Docker](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg) ![Nginx](https://ziadoua.github.io/m3-Markdown-Badges/badges/NGINX/nginx1.svg) ![TypeScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg) ![Yarn](https://ziadoua.github.io/m3-Markdown-Badges/badges/Yarn/yarn1.svg) ![NPM](	https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm1.svg)  ![Express.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express1.svg) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+I use AI agents both in the products we build and in my own engineering workflow. At KitchenSync, I lead a team shipping multi-agent and LLM workflows for restaurant operations, while staying hands-on across product delivery, engineering, and infrastructure.
 
-### 📱 Frontend:
-![HTML5](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg) ![CSS3](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg) ![SASS](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass2.svg)
-![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg) 
-![React Native](https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative3.svg) ![Expo](https://ziadoua.github.io/m3-Markdown-Badges/badges/Expo/expo3.svg)
-![Astro](https://ziadoua.github.io/m3-Markdown-Badges/badges/Astro/astro1.svg)
-![Expo](https://ziadoua.github.io/m3-Markdown-Badges/badges/Expo/expo3.svg)
-![Vite.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs1.svg)
-![Next JS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Axios](https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios1.svg) ![Redux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux2.svg)
-![TailwindCSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg) ![Bootstrap](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg) ![Docker](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg)
+## Engineering toolkit
 
+**Agentic development**
 
-### 🧰 My tools:
-![AWS](https://ziadoua.github.io/m3-Markdown-Badges/badges/AWS/aws3.svg) ![macOS](https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos1.svg) ![WebStorm](https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm1.svg) ![Visual Studio Code](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Figma](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma3.svg) ![Adobe Photoshop](https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop2.svg) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Premiere Pro](https://ziadoua.github.io/m3-Markdown-Badges/badges/Premiere/premiere3.svg) ![Adobe After Effects](https://ziadoua.github.io/m3-Markdown-Badges/badges/AfterEffects/aftereffects3.svg)
-![Notion](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion3.svg)
-![Vercel](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel1.svg) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![EsLint](https://ziadoua.github.io/m3-Markdown-Badges/badges/ESLint/eslint1.svg)
+<img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&amp;logo=claude&amp;logoColor=white"> <img alt="Codex" src="https://img.shields.io/badge/Codex-10A37F?style=for-the-badge&amp;logo=openai&amp;logoColor=white"> <img alt="Grok" src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&amp;logo=xai&amp;logoColor=white">
 
-### 📋 Another languajes that I know:
+**AI & agents**
 
-![C](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg) ![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg)
+<img alt="Claude API" src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&amp;logo=claude&amp;logoColor=white"> <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white"> <img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=white"> <img alt="Multi-agent orchestration" src="https://img.shields.io/badge/Multi--agent_orchestration-7047EB?style=for-the-badge"> <img alt="Agentic systems" src="https://img.shields.io/badge/Agentic_systems-7047EB?style=for-the-badge"> <img alt="MCP servers" src="https://img.shields.io/badge/MCP_servers-7047EB?style=for-the-badge"> <img alt="RAG" src="https://img.shields.io/badge/RAG-7047EB?style=for-the-badge"> <img alt="LLM integration" src="https://img.shields.io/badge/LLM_integration-7047EB?style=for-the-badge"> <img alt="SSE streaming" src="https://img.shields.io/badge/SSE_streaming-7047EB?style=for-the-badge"> <img alt="Tool-use patterns" src="https://img.shields.io/badge/Tool--use_patterns-7047EB?style=for-the-badge"> <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black"> <img alt="Vector embeddings" src="https://img.shields.io/badge/Vector_embeddings-7047EB?style=for-the-badge"> <img alt="Prompt engineering" src="https://img.shields.io/badge/Prompt_engineering-7047EB?style=for-the-badge"> <img alt="Fine-tuning" src="https://img.shields.io/badge/Fine--tuning-7047EB?style=for-the-badge">
 
-## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=adriancho91s&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=adriancho91s&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adriancho91s&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Product & frontend**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=adriancho91s&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black"> <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black"> <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black"> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white"> <img alt="Astro" src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&amp;logo=astro&amp;logoColor=white"> <img alt="Redux Toolkit" src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&amp;logo=redux&amp;logoColor=white"> <img alt="RTK Query" src="https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&amp;logo=redux&amp;logoColor=white"> <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white"> <img alt="Framer Motion" src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&amp;logo=framer&amp;logoColor=white"> <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&amp;logo=threedotjs&amp;logoColor=white">
 
+**Backend, data & integrations**
 
-  ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=adriancho91s&limit=5&theme=dark&combine_all_yearly_contributions=true)</p>
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white"> <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&amp;logo=nestjs&amp;logoColor=white"> <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white"> <img alt="Fastify" src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&amp;logo=fastify&amp;logoColor=white"> <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"> <img alt="BullMQ" src="https://img.shields.io/badge/BullMQ-E74C3C?style=for-the-badge"> <img alt="TypeORM" src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&amp;logo=typeorm&amp;logoColor=white"> <img alt="Event-driven architecture" src="https://img.shields.io/badge/Event--driven_architecture-334155?style=for-the-badge"> <img alt="Microservices" src="https://img.shields.io/badge/Microservices-334155?style=for-the-badge"> <img alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-334155?style=for-the-badge"> <img alt="WebSockets" src="https://img.shields.io/badge/WebSockets-334155?style=for-the-badge"> <img alt="Socket.IO" src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&amp;logo=socketdotio&amp;logoColor=white"> <img alt="LiveKit" src="https://img.shields.io/badge/LiveKit-FF4F00?style=for-the-badge&amp;logo=livekit&amp;logoColor=white"> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white"> <img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&amp;logo=redis&amp;logoColor=white"> <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&amp;logo=prisma&amp;logoColor=white"> <img alt="Drizzle ORM" src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&amp;logo=drizzle&amp;logoColor=black"> <img alt="Twilio" src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&amp;logo=twilio&amp;logoColor=white"> <img alt="Stripe" src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&amp;logo=stripe&amp;logoColor=white">
 
+**Cloud & delivery**
 
-  ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)</p>
+<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white"> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white"> <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&amp;logo=firebase&amp;logoColor=black"> <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&amp;logo=googlecloud&amp;logoColor=white"> <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&amp;logo=digitalocean&amp;logoColor=white"> <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white"> <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&amp;logo=nginx&amp;logoColor=white"> <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-475569?style=for-the-badge"> <img alt="Turborepo" src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&amp;logo=turborepo&amp;logoColor=white"> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white">
 
----
-[![](https://visitcount.itsvg.in/api?id=adriancho91s&icon=6&color=6)](https://visitcount.itsvg.in)
+## Experience
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### KitchenSync · AI Software Engineer · Remote · 2025–Present
+
+Lead a team building software for restaurant back-office operations, including multi-agent orchestration and LLM-powered workflows.
+
+### Reach My Leads · Full Stack Developer · Aug 2023–Nov 2025
+
+Migrated a NestJS monolith to horizontally scalable AWS microservices with rolling deployments. Built event-driven systems with BullMQ, Redis, and WebSockets, including a call engine handling **10K+ calls/day** and a queue-based mass-messaging platform. Worked across product management, design, frontend, backend, and DevOps, and managed developers.
+
+## Selected work
+
+- **[Beela](https://dev.beela.app)** — AI-native operating system for Colombian small businesses, bringing scheduling, services, payments, customer messaging, and analytics together with multi-agent orchestration.
+- **[Codex Permission Reviewer](https://github.com/adriancho91s/codex-permission-reviewer)** — local TypeScript MCP server and bundled Codex skill that gives an advisory second opinion on potentially damaging actions; it never executes actions or grants host permission.
+- **[Agent Memory Layer](https://adriangaitan.dev/#projects)** — tree-structured distributed memory framework that gives AI coding agents structured context across sessions.
+
+**More:** I founded [SwiftControl](https://swiftcontrol.co), a software company building developer tools and product infrastructure. I also co-directed a six-week [Full Stack bootcamp](https://elitestack-bootcamp.vercel.app) with faculty from Universidad Tecnológica de Pereira, designing curriculum and mentoring students.
+
+## GitHub activity
+
+<p align="center">
+  <img alt="GitHub contribution activity heatmap" src="https://ghchart.rshah.org/adriancho91s">
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=adriancho91s&amp;theme=tokyonight&amp;hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=adriancho91s&amp;theme=default&amp;hide_border=true">
+    <img alt="GitHub contribution streak and activity summary" src="https://streak-stats.demolab.com?user=adriancho91s&amp;theme=default&amp;hide_border=true">
+  </picture>
+</p>
+
+## Let's build something useful
+
+For product engineering, agent orchestration, or infrastructure work, [email me](mailto:hello@adriangaitan.dev) or visit [adriangaitan.dev](https://adriangaitan.dev).
