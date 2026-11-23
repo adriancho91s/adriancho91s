@@ -63,15 +63,19 @@ Migrated a NestJS monolith to horizontally scalable AWS microservices with rolli
 ## GitHub activity
 
 <p align="center">
-  <img alt="GitHub contribution activity heatmap" src="https://ghchart.rshah.org/adriancho91s">
+  <a href="https://github.com/adriancho91s#year-link-2026">
+    <img alt="GitHub contribution activity heatmap" src="https://ghchart.rshah.org/adriancho91s">
+  </a>
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=adriancho91s&amp;theme=tokyonight&amp;hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=adriancho91s&amp;theme=default&amp;hide_border=true">
-    <img alt="GitHub contribution streak and activity summary" src="https://streak-stats.demolab.com?user=adriancho91s&amp;theme=default&amp;hide_border=true">
-  </picture>
+  <a href="https://github.com/adriancho91s#year-link-2026">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=adriancho91s&amp;theme=tokyonight&amp;hide_border=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=adriancho91s&amp;theme=default&amp;hide_border=true">
+      <img alt="GitHub contribution streak and activity summary" src="https://streak-stats.demolab.com?user=adriancho91s&amp;theme=default&amp;hide_border=true">
+    </picture>
+  </a>
 </p>
 
 ## Let's build something useful
